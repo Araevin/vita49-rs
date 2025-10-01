@@ -31,6 +31,7 @@ thiserror = "2.0.11"
 # Locked versions to keep lower MSRV
 fixed = "= 1.27.0"
 half = "= 2.4.1"
+proc-macro-crate = "= 3.3.0"
 
 [features]
 default = []
